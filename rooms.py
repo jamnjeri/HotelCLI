@@ -1,0 +1,1 @@
+# For handling rooms data
